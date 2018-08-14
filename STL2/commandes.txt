@@ -1,0 +1,9 @@
+CACIB Paris PC1 500 3
+CACEIS Chartres Mac 1000 5
+LCL Villejuif Souris 20 200
+LCL Villejuif Câble 2 500
+CASA Montrouge Word 35 200
+CACEIS Chartres PC2 800 50
+CATS Lyon Server 2400 10
+CATS Lyon Baie 876 20
+CALF Porto Mac 1000 10

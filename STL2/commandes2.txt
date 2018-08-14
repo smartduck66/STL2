@@ -1,0 +1,10 @@
+CACIB Paris PC1 500 3
+CACEIS Chartres Mac 1000 5
+LCL Villejuif Souris 20 200
+LCL Villejuif Câble 2 500
+AMUNDI Paris PC1 250 20
+CACF Massy PC2 465 30
+CACF Massy Server 9866 5
+AMUNDI Paris Souris 24 300
+PCK Paris PC3 987 30
+CAA Paris MacBook 2567 40
